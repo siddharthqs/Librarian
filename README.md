@@ -10,21 +10,21 @@
  
  The code is written in Python, and requires quite a few dependencies, run the following command to install all required modules.
 
-    `pip install -r requirements.txt`
+    'pip install -r requirements.txt'
  
  ***
  
  To execute the program, first run the read.py program with the follwing arguments:
  
-    `python read.py <file_type> <directory>`
+    'python read.py <file_type> <directory>'
 
-    *`<file_type>` can be code or docs
-    *`<directory>` is the directory containing the files of interest
+    '<file_type>' can be code or docs
+    '<directory>' is the directory containing the files of interest
  
  ***
  
  To run the chat bot, run the command:
  
-    `python chat.py`
+    'python chat.py'
 
  The Librarian will greet you and you will be able to make queries. 
