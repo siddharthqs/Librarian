@@ -11,6 +11,8 @@
  The code is written in Python, and requires quite a few dependencies, run the following command to install all required modules.
 
     pip install -r requirements.txt
+
+If you are on a Windows machine, replace requirements.txt with requirements_windows.txt. You will also need to install Microsoft C++ Build Tools (visualstudio.microsoft.com/visual-cpp-build-tools)
  
  ***
  
