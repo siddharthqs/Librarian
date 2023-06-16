@@ -5,7 +5,7 @@ import shutil
 
 import langchain
 
-os.environ["OPENAI_API_KEY"] = ""
+#os.environ["OPENAI_API_KEY"] = ""
 
 
 def load_docs(directory: str="./documents") -> typing.List[langchain.docstore.document.Document]:
